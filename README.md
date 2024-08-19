@@ -21,4 +21,27 @@ Deployed at: https://algotrack.onrender.com/
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/GaganReddyin/Algotrack
+2. **Navigate to the project directory and install dependencies:**
+   ```bash
+   cd Algotrack
+   npm install
+3. **Build the project to generate the build assets:**
+   ```bash
+   npm run build
+4. **Start the application:**
+   ```bash
+   npm start
+
+## **Usage**
+1. **Perform a Search:**
+   - Enter a search query (e.g., "dynamic programming") in the search bar.
+   - Select the coding platform (LeetCode, Codeforces, CodeChef) to search from.
+
+2. **View Results:**
+   - The application displays a list of relevant coding problems with titles, links, and difficulty ratings.
+
+## **Troubleshooting**
+  - **Build Directory Issue:** If the `./build` directory does not exist, ensure that the build command (`npm run build`) was executed successfully and that the build directory is created.
+- **Dependency Problems:** If there are issues with dependencies, try running `npm install` again to ensure all packages are correctly installed.
+- **Deployment Issues:** Refer to the [Render Troubleshooting Guide](https://docs.render.com/troubleshooting-deploys) for more detailed support on deployment problems.
 
