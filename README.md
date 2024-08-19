@@ -2,7 +2,8 @@
 Deployed at: https://algotrack.onrender.com/
 # **Algotrack (Search Engine for Coding Problems)**
 
-**Algotrack** is a full-stack web application designed to help users find coding problems from popular platforms like LeetCode, Codeforces, and CodeChef. The application utilizes web scraping and advanced search algorithms to provide precise and relevant problem recommendations based on user queries, enhancing the coding practice and learning experience.
+**Algotrack** is a search engine designed specifically for finding coding problems on LeetCode. It uses web scraping and the TF-IDF algorithm to help users locate relevant problems based on their search queries, making it easier to practice and improve coding skills.
+
 
 ## **Features**
 - **Web Scraping:** Extracts coding problem data from multiple platforms using Beautiful Soup and Selenium.
