@@ -1,5 +1,5 @@
 # Import required packages
-import os  
+import os     
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
