@@ -5,7 +5,7 @@ qData_folder = "Qdata"
 
 target_str = "Example 1:"
 
-all_lines = []
+all_lines = [] 
 
 for i in range(1, 2040):
     file_path = os.path.join(qData_folder, "{}/{}.txt".format(i, i))
