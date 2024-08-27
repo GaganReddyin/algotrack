@@ -2,7 +2,7 @@ import os
 import re    
             
 qData_folder = "Qdata"
- 
+  
 target_str = "Example 1:"
   
 all_lines = [] 
