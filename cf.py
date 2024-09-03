@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 # Define the chromedriver service
 s = Service('chromedriver.exe')
 
-# Instantiate the webdriver
+# Instantiate the webdriver.    
 driver = webdriver.Chrome(service=s)
 
 # The base URL for the pages to scrape
