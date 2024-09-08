@@ -9364,7 +9364,7 @@ https://codeforces.com/problemset/problem/1343/E
 https://codeforces.com/problemset/problem/900/B
 https://codeforces.com/problemset/problem/679/E
 https://codeforces.com/problemset/problem/1146/A
-https://codeforces.com/problemset/problem/730/L
+https://codeforces.com/problemset/problem/730/L 
 https://codeforces.com/problemset/problem/1572/A
 https://codeforces.com/problemset/problem/1031/E
 https://codeforces.com/problemset/problem/1267/J
