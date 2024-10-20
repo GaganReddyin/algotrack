@@ -10,7 +10,7 @@ Deployed at: https://algotrack.onrender.com/
 - **Search Algorithm:** Implements the TF-IDF algorithm to rank and retrieve problems based on query relevance.
 - **Interactive Web Interface:** Built with React.js and Node.js, offering a seamless and responsive user experience.
 - **Cross-Platform Search:** Allows users to search and view coding problems across various platforms in a unified interface.
-
+         
 ## **Tech Stack**
 - **Frontend:** React.js, HTML, CSS
 - **Backend:** Node.js, Python
